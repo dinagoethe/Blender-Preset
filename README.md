@@ -42,3 +42,4 @@ Here's the presets. Very simple right?
 note : it's up to you to change the colour, make it fun and be more creative! 
 
 Here's another image that I rendered from another perspective.
+![](https://github.com/deenagoethe/Blender-Preset/blob/master/rubik_dari_bawah.png?raw=true)
