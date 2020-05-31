@@ -7,6 +7,8 @@ I use blender version 2.76 to make some 3D pict.
 I rendered the 3D object that I made to an image.
 Here's the presets. Very simple right?
 
+---
+
 **Object : Cube** 
 
 **Modifier :**
@@ -39,7 +41,9 @@ Here's the presets. Very simple right?
 
 `Horizon color : R(0.551), GB(0.787)`
 
-note : it's up to you to change the colour, make it fun and be more creative! 
+---
+
+>Note : it's up to you to change the colour, make it fun and be more creative! 
 
 Here's another image that I rendered from another perspective.
 ![](https://github.com/deenagoethe/Blender-Preset/blob/master/rubik_dari_bawah.png?raw=true)
