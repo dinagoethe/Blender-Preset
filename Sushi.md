@@ -3,7 +3,7 @@
 
 ![](https://github.com/deenagoethe/Blender-Preset/blob/master/sushi_3.png?raw=true)
 
-Let's make sushi!
+Let's make sushi! (with blender v2.76)
 
 ---
 
@@ -62,4 +62,21 @@ Energy : 0.320
 
 I rendered the photo from another perspective too! And then I collage them with *April* application.
 
+![](https://github.com/deenagoethe/Blender-Preset/blob/master/WhatsApp%20Image%202020-06-01%20at%2008.23.14.jpeg?raw=true)
+
+**Preset *april* :**
+
+	Font : journal
+	Filter : all H1
+
+---
+Made object `31/06/2020`
+
+---
+
+Writing 
+`01/06/2020`
+
+	start : 08.20
+	finish : 08.51
 
