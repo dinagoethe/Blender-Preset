@@ -1,5 +1,9 @@
 ### Blender-Preset
-# Sushi
+# Low Poly Sushi
+
+![](https://github.com/deenagoethe/Blender-Preset/blob/master/sushi_3.png?raw=true)
+
+Let's make sushi!
 
 ---
 
@@ -45,7 +49,7 @@ Point
 - [x] diffuse
 distance : 21.240
 
-Sun 
+Sun
 Energy : 0.320
 - [x] : specular
 - [x] : diffuse
@@ -53,3 +57,9 @@ Energy : 0.320
 **F. World**
 - [x] Paper sky --- R(1.0), G(0.581), B(0.258)
 - [x] Zenith color --- R(1.0), G(0.872), B(0.737)
+
+---
+
+I rendered the photo from another perspective too! And then I collage them with *April* application.
+
+
