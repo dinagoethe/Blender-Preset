@@ -7,4 +7,3 @@ Here's the presets. Very simple right?
 - [Rubik](https://github.com/dinagoethe/Blender-Preset/blob/master/Rubik.md)
 - [Sushi](https://github.com/dinagoethe/Blender-Preset/blob/master/Sushi.md)
 - [Mushola](https://github.com/dinagoethe/Blender-Preset/blob/master/Mushola.md)
-- [Kompor]()
